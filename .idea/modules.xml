@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PT-TKGT.iml" filepath="$PROJECT_DIR$/.idea/PT-TKGT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.mino.Ex/com.mino.Ex.iml" filepath="$PROJECT_DIR$/com.mino.Ex/com.mino.Ex.iml" />
+    </modules>
+  </component>
+</project>
