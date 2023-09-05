@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f19709c-551c-4dbd-9b24-16559c5981f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/buoi_2/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/buoi_2/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.mino.Ex/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.mino.Ex/src/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.mino.Ex/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.mino.Ex/Ex2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +39,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "C:/Users/hoang/OneDrive/Desktop/PT-TKGT"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex2">
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buoi_2.Ex1" />
+      <module name="com.mino.Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buoi_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex2" />
       <module name="com.mino.Ex" />
@@ -54,8 +72,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="buoi_2.Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buoi_2.Ex2" />
+      <module name="com.mino.Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buoi_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.buoi_2.Ex2" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Main" />
       </list>

@@ -21,18 +21,6 @@ public class Ex2 {
             while (j >= 0 && arr[j] > key) {
                 arr[j + 1] = arr[j];
                 j--;
-
-                System.out.print("Lần " + i + " nguồn: ");
-                Subarray(arr, j + 2, i);
-                System.out.print(" đích: ");
-                Subarray(arr, 0, j + 1);
-                System.out.println(" -> Di chuyển phần tử " + key + " đến vị trí " + (j + 2) + " (về sau " + (i - j - 1) + " lần)");
-
-                System.out.print("Lần " + (i + 1) + " nguồn: ");
-                Subarray(arr, j + 2, i + 1);
-                System.out.print(" đích: ");
-                Subarray(arr, 0, j + 1);
-                System.out.println();
             }
             arr[j + 1] = key;
         }
