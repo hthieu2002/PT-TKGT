@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f19709c-551c-4dbd-9b24-16559c5981f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/buoi_2/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.mino.Ex/src/buoi_2/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.mino.Ex/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.mino.Ex/src/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.mino.Ex/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.mino.Ex/Ex2.class" afterDir="false" />
-    </list>
+    <list default="true" id="9f19709c-551c-4dbd-9b24-16559c5981f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

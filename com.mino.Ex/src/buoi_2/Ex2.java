@@ -1,7 +1,5 @@
 package buoi_2;
 
-import java.util.Arrays;
-
 public class Ex2 {
     public static void main(String[] args) {
        int n = 6;
@@ -16,9 +14,13 @@ public class Ex2 {
             return 1;
         }
         for(int i = 2; i <= n; i++) {
+            System.out.print("i = "+ i + "\n");
             c = a + b;
+            System.out.print("\tb = "+a +"+"+b +"=");
             a = b;
+            
             b = c;
+            System.out.println(b);
         }
         return b;
     }
