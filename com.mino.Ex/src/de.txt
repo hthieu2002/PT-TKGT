@@ -1,0 +1,2 @@
+Phân tích thuật toán và hiện thị cách hoạt động của thuật toán qua từng bước
+mà không thay đổi thuật toán vốn có 
